@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My Name is Junni, I like to solve problems and code. I am currently working fulltime as a UI/UX Engineer. 
+### My Name is Junni, I like to solve problems and code. I am currently working fulltime as a Frontend Engineer. 
 ### I love to communicating with people! Sort of an extrovert..
 ### Feel free to reach me anytime!
 
