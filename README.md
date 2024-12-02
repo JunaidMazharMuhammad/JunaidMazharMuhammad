@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Currently working as a Senior Full Stack Engineer.. 
-### I love to communicating with people! Sort of an extrovert..
+### I love communicating with people! Sort of an extrovert..
 ### Feel free to reach me anytime!
 
 <!--
